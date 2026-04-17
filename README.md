@@ -1,4 +1,4 @@
-# 🎓 Student Management System (React.js)--a-very-basic-react-project
+# 🎓 Student Management System (React.js) - a very basic react project
 
 A simple and responsive **Student Management System** built using **React.js** during my 4th semester. This project demonstrates core frontend concepts such as component-based architecture, routing, CRUD operations, and client-side data persistence using LocalStorage.
 
@@ -54,7 +54,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-management.git
+git clone https://github.com/your-username/Basic-Student-Management-System.git
 ```
 
 2. Navigate into the project folder
